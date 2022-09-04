@@ -2,7 +2,7 @@
 
     <test-case id="1">
         <q>/start</q>
-        <a state="/Start"/>
+        <a state="/Get weather"/>
     </test-case>
 
     <test-case id="2">
