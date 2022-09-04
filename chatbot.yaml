@@ -1,4 +1,4 @@
-name: echo-template
+name: whether-bot
 
 entryPoint: main.sc
 
@@ -14,3 +14,11 @@ sts:
 
 caila:
   noMatchThreshold: 0.2
+  
+injector:
+  api_key: '453418e029020d8a699b205073fecdb2'
+  slotfilling:
+        maxSlotRetries: 2
+        stopOnAnyIntent: false
+        stopOnAnyIntentThreshold: 0.2
+  
