@@ -21,12 +21,12 @@
     "enabled" : true,
     "shared" : false,
     "phrases" : [ {
-      "text" : "@ mystem.geo"
+      "text" : "@mystem.geo"
     } ],
     "classificationRules" : {
       "refs" : [ ]
     },
-    "patterns" : [ ],
+    "patterns" : [ "mystem.geo" ],
     "slots" : [ {
       "name" : "geo",
       "entity" : "mystem.geo",
